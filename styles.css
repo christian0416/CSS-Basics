@@ -1,0 +1,16 @@
+body {
+    color:gray;
+    background-color: rgb(244, 245, 240);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.black-border {
+    border: 2px solid black;
+}
+
+#grey-background {
+    background-color: gray;
+    font-size: large;
+}
